@@ -1,10 +1,5 @@
 # Chatbot persona rubric
 
-**User:** 16adrian15@gmail.com (16adrian15@gmail.com)  
-**Created:** 9/27/2025 17:51:58  
-**Updated:** 9/27/2025 17:52:33  
-**Exported:** 9/27/2025 17:58:58  
-**Link:** [https://chatgpt.com/c/68d85c7d-8308-832e-b3f7-e1c4d427fd15](https://chatgpt.com/c/68d85c7d-8308-832e-b3f7-e1c4d427fd15)  
 
 ## Prompt:
 chat\_history.md
